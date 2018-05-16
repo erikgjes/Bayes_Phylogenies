@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="MM v1.0.5" version="2.4">
+
+
+    <data
+id="plains_houses_rev"
+dataType="standard">
+                            <sequence id="seq_RedWillow1" taxon="RedWillow1" totalcount="2" value="0100010010001000000010000100000100001"/>
+                            <sequence id="seq_Owens3" taxon="Owens3" totalcount="2" value="1000001010000100000010000100100000001"/>
+                            <sequence id="seq_Holdredge2" taxon="Holdredge2" totalcount="2" value="0100010010000010000000001100001000001"/>
+                            <sequence id="seq_MowryBluff1" taxon="MowryBluff1" totalcount="2" value="0100010010000001000010000100010000001"/>
+                            <sequence id="seq_TheodoreDavisB" taxon="TheodoreDavisB" totalcount="2" value="0100010010000000010000010100001000001"/>
+                            <sequence id="seq_TheodoreDavisC" taxon="TheodoreDavisC" totalcount="2" value="0100010010000001000000100100000100001"/>
+                            <sequence id="seq_PattersonSite4" taxon="PattersonSite4" totalcount="2" value="0100010010000100000000100100000100001"/>
+                            <sequence id="seq_LittlePawneeCreek1" taxon="LittlePawneeCreek1" totalcount="2" value="0010100010010000000100000101000000001"/>
+                            <sequence id="seq_SweetwaterSite2" taxon="SweetwaterSite2" totalcount="2" value="0100010010001000000000010100100000001"/>
+                            <sequence id="seq_Dodd17" taxon="Dodd17" totalcount="2" value="0010010001000000010000010100000100001"/>
+                            <sequence id="seq_Dodd29" taxon="Dodd29" totalcount="2" value="0010100001000001000000010010001000001"/>
+                            <sequence id="seq_Dodd76" taxon="Dodd76" totalcount="2" value="0010100001000000010000010100001000001"/>
+                            <sequence id="seq_Breeden2" taxon="Breeden2" totalcount="2" value="0010100001000010000000001010000100001"/>
+                            <sequence id="seq_Swanson3" taxon="Swanson3" totalcount="2" value="0010100001000001000001000011000000001"/>
+                            <sequence id="seq_Swanson4" taxon="Swanson4" totalcount="2" value="0001001001000001000001000011000000001"/>
+                            <sequence id="seq_PrettyHead7" taxon="PrettyHead7" totalcount="2" value="0001001001000000100000010010000100001"/>
+                            <sequence id="seq_Langdeau4" taxon="Langdeau4" totalcount="2" value="0010001001000001000000010010001000001"/>
+                            <sequence id="seq_JiggsThompson4" taxon="JiggsThompson4" totalcount="2" value="0010010001000001000000010100010000001"/>
+                            <sequence id="seq_Mitchell4" taxon="Mitchell4" totalcount="2" value="0001001001000000010000100010001000001"/>
+                            <sequence id="seq_ThomasRiggs1" taxon="ThomasRiggs1" totalcount="2" value="0001001001000000010000001010000000101"/>
+                            <sequence id="seq_ThomasRiggs3" taxon="ThomasRiggs3" totalcount="2" value="0010100001001000000000010010001000001"/>
+                            <sequence id="seq_Cannonball1" taxon="Cannonball1" totalcount="2" value="0010001001000010000000010100001000001"/>
+                            <sequence id="seq_Cannonball7" taxon="Cannonball7" totalcount="2" value="0010010001000010000000010100001000001"/>
+                            <sequence id="seq_Bendish3" taxon="Bendish3" totalcount="2" value="0010001001000000100000010100000100001"/>
+                            <sequence id="seq_FireHeartCreek33" taxon="FireHeartCreek33" totalcount="2" value="0001001001000001000000010010001000001"/>
+                            <sequence id="seq_Huff1" taxon="Huff1" totalcount="2" value="0010010001000100000000010010000010001"/>
+                            <sequence id="seq_Shermer4" taxon="Shermer4" totalcount="2" value="0010010001000010000000010010000001001"/>
+                            <sequence id="seq_BlackPartizan11" taxon="BlackPartizan11" totalcount="2" value="0100010100000010000001000100010000001"/>
+                            <sequence id="seq_Arzberger3" taxon="Arzberger3" totalcount="2" value="0100010010000010000001000010000010001"/>
+                            <sequence id="seq_CrowCreek1" taxon="CrowCreek1" totalcount="2" value="0100010010000010000000010100000010001"/>
+                            <sequence id="seq_CrowCreek3" taxon="CrowCreek3" totalcount="2" value="0100010010000100000000010010000010001"/>
+                            <sequence id="seq_TalkingCrow1" taxon="TalkingCrow1" totalcount="2" value="0100010100000100000000010010000100001"/>
+                            <sequence id="seq_TalkingCrow8" taxon="TalkingCrow8" totalcount="2" value="0100010100000000010000010010001000001"/>
+                            <sequence id="seq_Demery2" taxon="Demery2" totalcount="2" value="0100010100010000000000010100010000001"/>
+                            <sequence id="seq_OversLaRoche3B" taxon="OversLaRoche3B" totalcount="2" value="0100010100001000000001000100010000001"/>
+                            <sequence id="seq_Molstad7" taxon="Molstad7" totalcount="2" value="1000001100000010000010000100000000101"/>
+                            <sequence id="seq_BigVillage1" taxon="BigVillage1" totalcount="2" value="1000001100100000000000001100010000001"/>
+                            <sequence id="seq_BigVillage2" taxon="BigVillage2" totalcount="2" value="1000001100010000000000010100001000001"/>
+                            <sequence id="seq_LikeAFishhook18" taxon="LikeAFishhook18" totalcount="2" value="0100010100001000001000000100000000101"/>
+                            <sequence id="seq_LikeAFishhook5" taxon="LikeAFishhook5" totalcount="2" value="0100010100001000000001000100000000101"/>
+                            <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+                        </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="10000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:plains_houses_rev" name="stateNode">
+            <trait id="dateTrait.t:plains_houses_rev" spec="beast.evolution.tree.TraitSet" traitname="date-backward">
+                
+                
+                RedWillow1=765,
+Owens3=765,
+Holdredge2=765,
+MowryBluff1=765,
+TheodoreDavisB=675,
+TheodoreDavisC=675,
+PattersonSite4=675,
+LittlePawneeCreek1=675,
+SweetwaterSite2=325,
+Dodd17=765,
+Dodd29=765,
+Dodd76=765,
+Breeden2=800,
+Swanson3=900,
+Swanson4=900,
+PrettyHead7=906,
+Langdeau4=744,
+JiggsThompson4=691,
+Mitchell4=826,
+ThomasRiggs1=445,
+ThomasRiggs3=445,
+Cannonball1=624,
+Cannonball7=624,
+Bendish3=666,
+FireHeartCreek33=651,
+Huff1=486,
+Shermer4=598,
+BlackPartizan11=550,
+Arzberger3=423,
+CrowCreek1=590,
+CrowCreek3=590,
+TalkingCrow1=550,
+TalkingCrow8=550,
+Demery2=533,
+OversLaRoche3B=383,
+Molstad7=407,
+BigVillage1=140,
+BigVillage2=140,
+LikeAFishhook18=92,
+LikeAFishhook5=92                
+                            
+                            <taxa id="TaxonSet.plains_houses_rev2" spec="TaxonSet">
+                    <alignment id="plains_houses_rev2" spec="FilteredAlignment" ascertained="true" excludefrom="35" excludeto="37" filter="1-35,36-37">
+                        <data idref="plains_houses_rev"/>
+                        <userDataType id="morphDataType.plains_houses_rev2" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+                    </alignment>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.plains_houses_rev2"/>
+        </tree>
+        <parameter id="bPopSizes.t:plains_houses_rev" dimension="5" lower="0.0" name="stateNode" upper="380000.0">380.0</parameter>
+        <stateNode id="bGroupSizes.t:plains_houses_rev" spec="parameter.IntegerParameter" dimension="5">1</stateNode>
+        <parameter id="gammaShape.s:plains_houses_rev2" name="stateNode">1.0</parameter>
+        <parameter id="clockRate.c:plains_houses_rev" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:plains_houses_rev" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:plains_houses_rev" taxa="@plains_houses_rev2">
+        <populationModel id="ConstantPopulation0.t:plains_houses_rev" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:plains_houses_rev" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="BayesianSkyline.t:plains_houses_rev" spec="BayesianSkyline" groupSizes="@bGroupSizes.t:plains_houses_rev" popSizes="@bPopSizes.t:plains_houses_rev">
+                <treeIntervals id="BSPTreeIntervals.t:plains_houses_rev" spec="TreeIntervals" tree="@Tree.t:plains_houses_rev"/>
+            </distribution>
+            <distribution id="MarkovChainedPopSizes.t:plains_houses_rev" spec="beast.math.distributions.MarkovChainDistribution" jeffreys="true" parameter="@bPopSizes.t:plains_houses_rev"/>
+            <prior id="ClockPrior.c:plains_houses_rev" name="distribution" x="@clockRate.c:plains_houses_rev">
+                <Gamma id="Gamma.8" name="distr">
+                    <parameter id="RealParameter.45" estimate="false" name="alpha">2.0</parameter>
+                    <parameter id="RealParameter.46" estimate="false" name="beta">2.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="GammaShapePrior.s:plains_houses_rev2" name="distribution" x="@gammaShape.s:plains_houses_rev2">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <distribution id="CO.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:plains_houses_rev">
+                <taxonset id="CO" spec="TaxonSet">
+                    <taxon id="Arzberger3" spec="Taxon"/>
+                    <taxon id="BigVillage1" spec="Taxon"/>
+                    <taxon id="BigVillage2" spec="Taxon"/>
+                    <taxon id="BlackPartizan11" spec="Taxon"/>
+                    <taxon id="CrowCreek1" spec="Taxon"/>
+                    <taxon id="CrowCreek3" spec="Taxon"/>
+                    <taxon id="Demery2" spec="Taxon"/>
+                    <taxon id="LikeAFishhook18" spec="Taxon"/>
+                    <taxon id="LikeAFishhook5" spec="Taxon"/>
+                    <taxon id="Molstad7" spec="Taxon"/>
+                    <taxon id="OversLaRoche3B" spec="Taxon"/>
+                    <taxon id="TalkingCrow1" spec="Taxon"/>
+                    <taxon id="TalkingCrow8" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.7" name="distr">
+                    <parameter id="RealParameter.52" estimate="false" name="M">6.21</parameter>
+                    <parameter id="RealParameter.53" estimate="false" lower="0.0" name="S" upper="5.0">0.17</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="CP.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:plains_houses_rev">
+                <taxonset id="CP" spec="TaxonSet">
+                    <taxon id="Holdredge2" spec="Taxon"/>
+                    <taxon id="LittlePawneeCreek1" spec="Taxon"/>
+                    <taxon id="MowryBluff1" spec="Taxon"/>
+                    <taxon id="Owens3" spec="Taxon"/>
+                    <taxon id="PattersonSite4" spec="Taxon"/>
+                    <taxon id="RedWillow1" spec="Taxon"/>
+                    <taxon id="SweetwaterSite2" spec="Taxon"/>
+                    <taxon id="TheodoreDavisB" spec="Taxon"/>
+                    <taxon id="TheodoreDavisC" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.5" name="distr">
+                    <parameter id="RealParameter.47" estimate="false" name="M">6.67</parameter>
+                    <parameter id="RealParameter.48" estimate="false" lower="0.0" name="S" upper="5.0">0.06</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="MM.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:plains_houses_rev">
+                <taxonset id="MM" spec="TaxonSet">
+                    <taxon id="Breeden2" spec="Taxon"/>
+                    <taxon id="Cannonball1" spec="Taxon"/>
+                    <taxon id="Cannonball7" spec="Taxon"/>
+                    <taxon id="Bendish3" spec="Taxon"/>
+                    <taxon id="Dodd17" spec="Taxon"/>
+                    <taxon id="Dodd29" spec="Taxon"/>
+                    <taxon id="Dodd76" spec="Taxon"/>
+                    <taxon id="FireHeartCreek33" spec="Taxon"/>
+                    <taxon id="Huff1" spec="Taxon"/>
+                    <taxon id="JiggsThompson4" spec="Taxon"/>
+                    <taxon id="Langdeau4" spec="Taxon"/>
+                    <taxon id="Mitchell4" spec="Taxon"/>
+                    <taxon id="PrettyHead7" spec="Taxon"/>
+                    <taxon id="Shermer4" spec="Taxon"/>
+                    <taxon id="Swanson3" spec="Taxon"/>
+                    <taxon id="Swanson4" spec="Taxon"/>
+                    <taxon id="ThomasRiggs1" spec="Taxon"/>
+                    <taxon id="ThomasRiggs3" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.4" name="distr">
+                    <parameter id="parameter.hyperLogNormalDistributionModel-M-MM.prior" estimate="false" lower="1000.0" name="M" upper="1500.0">6.67</parameter>
+                    <parameter id="RealParameter.44" estimate="false" lower="0.0" name="S" upper="5.0">0.1</parameter>
+                </LogNormal>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="morphTreeLikelihood.plains_houses_rev2" spec="TreeLikelihood" data="@plains_houses_rev2" tree="@Tree.t:plains_houses_rev">
+                <siteModel id="morphSiteModel.s:plains_houses_rev2" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:plains_houses_rev2">
+                    <parameter id="mutationRate.s:plains_houses_rev2" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:plains_houses_rev2" spec="LewisMK" datatype="@morphDataType.plains_houses_rev2"/>
+                </siteModel>
+                <branchRateModel id="StrictClock.c:plains_houses_rev" spec="beast.evolution.branchratemodel.StrictClockModel" clock.rate="@clockRate.c:plains_houses_rev"/>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="BayesianSkylineTreeScaler.t:plains_houses_rev" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:plains_houses_rev" weight="3.0"/>
+
+    <operator id="BayesianSkylineTreeRootScaler.t:plains_houses_rev" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:plains_houses_rev" weight="3.0"/>
+
+    <operator id="BayesianSkylineUniformOperator.t:plains_houses_rev" spec="Uniform" tree="@Tree.t:plains_houses_rev" weight="30.0"/>
+
+    <operator id="BayesianSkylineSubtreeSlide.t:plains_houses_rev" spec="SubtreeSlide" tree="@Tree.t:plains_houses_rev" weight="15.0"/>
+
+    <operator id="BayesianSkylineNarrow.t:plains_houses_rev" spec="Exchange" tree="@Tree.t:plains_houses_rev" weight="15.0"/>
+
+    <operator id="BayesianSkylineWide.t:plains_houses_rev" spec="Exchange" isNarrow="false" tree="@Tree.t:plains_houses_rev" weight="3.0"/>
+
+    <operator id="BayesianSkylineWilsonBalding.t:plains_houses_rev" spec="WilsonBalding" tree="@Tree.t:plains_houses_rev" weight="3.0"/>
+
+    <operator id="popSizesScaler.t:plains_houses_rev" spec="ScaleOperator" parameter="@bPopSizes.t:plains_houses_rev" scaleFactor="0.75" weight="15.0"/>
+
+    <operator id="groupSizesDelta.t:plains_houses_rev" spec="DeltaExchangeOperator" integer="true" weight="6.0">
+        <intparameter idref="bGroupSizes.t:plains_houses_rev"/>
+    </operator>
+
+    <operator id="gammaShapeScaler.s:plains_houses_rev2" spec="ScaleOperator" parameter="@gammaShape.s:plains_houses_rev2" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="StrictClockRateScaler.c:plains_houses_rev" spec="ScaleOperator" parameter="@clockRate.c:plains_houses_rev" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="strictClockUpDownOperator.c:plains_houses_rev" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="clockRate.c:plains_houses_rev"/>
+        <down idref="Tree.t:plains_houses_rev"/>
+    </operator>
+
+    <logger id="tracelog" fileName="plains_house_Mk_4_strict_Sky_Calib_BP_TipDates_Cor.log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="TreeHeight.t:plains_houses_rev" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:plains_houses_rev"/>
+        <log idref="morphTreeLikelihood.plains_houses_rev2"/>
+        <log idref="BayesianSkyline.t:plains_houses_rev"/>
+        <log idref="bPopSizes.t:plains_houses_rev"/>
+        <log idref="bGroupSizes.t:plains_houses_rev"/>
+        <log idref="gammaShape.s:plains_houses_rev2"/>
+        <log idref="MM.prior"/>
+        <log idref="clockRate.c:plains_houses_rev"/>
+        <log idref="CP.prior"/>
+        <log idref="CO.prior"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:plains_houses_rev" fileName="plains_houses_Mk_4_strict_Sky_Calib_BP_TipDates_Cor.trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:plains_houses_rev" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:plains_houses_rev"/>
+    </logger>
+
+    <logger id="treelog.t:plains_houses_rev_subs" fileName="plains_houses_Mk_4_strict_Sky_subs_Calib_BP_TipDates_Cor.trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:plains_houses_rev_subs" spec="beast.evolution.tree.TreeWithMetaDataLogger" substitutions="true" tree="@Tree.t:plains_houses_rev"/>
+    </logger>
+
+</run>
+
+</beast>
