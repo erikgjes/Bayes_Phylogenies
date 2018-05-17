@@ -27,6 +27,7 @@ subs - substitution rate was also logged by the MCMC
 50 - Number of trees used in the posterior distribution (50,000)
 Calib - Nodes for cultural traditions were calibrated on age
 BP_TipDates - Tip Dates were provided in BP ages
+
 Tree Files
 Files with the .trees or .tre suffix are trees that are resulted from the BEAST2 analysis. Files that
 have the MCCT.trees suffix are a single maximum clade credibility tree that were produced using the TreeAnnotator program associated with BEAST2. Tree files like these can be viewed directly in programs such as FigTree
