@@ -1,5 +1,5 @@
 
-#Figure 9.1 BEAST2 MCCT Tree - Not time calibrated
+#Figure 9.2 BEAST2 MCCT Tree - Not time calibrated
 
 #BEAST Tree
 library(ape)
