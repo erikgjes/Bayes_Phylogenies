@@ -1,10 +1,10 @@
 
-#Figure 9.2 Methods to examine rate variation in trees
+#Figure 9.3 Methods to examine rate variation in trees
 library(dplyr)
 library(phyloch)
 library(phytools)
 
-#Figure 9.2a - Gamma Distribution
+#Figure 9.3a - Gamma Distribution
 #Example of a gamma distribution used to identify the gamma rate categoreis
 
 #png("~/Dropbox/Phylogenies_Book_Chapter/Graphics/Gamma_Distribution.png",
@@ -60,7 +60,7 @@ polygon(b1.x,b1.y,col="grey80",lwd=2)
 #dev.off()
 
 
-###Figure 4b - Branch Length Distribution
+###Figure 9.3b - Branch Length Distribution
 
 #Trees (50,000) from best fitting model (may take a few minutes to load)
 plains_beast <- read.nexus("https://raw.githubusercontent.com/erikgjes/Bayes_Phylogenies/master/plains_houses_Mk_4_strict_Sky50.trees")
@@ -91,7 +91,7 @@ hist(all_bl,xlim=c(0,0.25),breaks = 10000,ylim=c(0,70000),cex=0.5,
 
 #dev.off()
 
-###Figure 4c - Color coded tree
+###Figure 9.4c - Branch length trait tree
 
 plains_beast_MCCT <- read.nexus("https://raw.githubusercontent.com/erikgjes/Bayes_Phylogenies/master/plains_houses_Mk_4_strict_Sky50_MCCT.trees")
 
