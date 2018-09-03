@@ -1,5 +1,5 @@
 
-###Figure 9.3 Time Calibrated Tree
+###Figure 9.4 Time Calibrated Tree
 library(ape)
 library(phytools)
 library(dplyr)
